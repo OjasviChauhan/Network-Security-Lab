@@ -3,10 +3,7 @@
 int main(){
     int i,j,k,flag=0,l;
     char matrix[26][26];
-    char key[20];
-    char Gkey[50];
-    char Pt[50];
-    char Ct[50];
+    char key[20],Gkey[50],Pt[50],Ct[50];
     printf("Enter the plain text: ");
     gets(Pt);
     printf("Enter the Key: ");
