@@ -27,7 +27,6 @@ int main(){
         }
         printf("\n");
     }
-
     i=0;
     while(i<strlen(Pt)){
     for(k=flag;k<strlen(Gkey);k++){
